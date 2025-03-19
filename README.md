@@ -1,7 +1,7 @@
 <!-- Stats -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kevinacuna0194&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true&locale=es" width="53%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinacuna0194&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true&layout=compact&locale=es" width="42.4%" /> </br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinacuna0194&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true&layout=compact&locale=es" width="41.8%" /> </br>
 </div>
 
 <!-- Snake Animation -->
