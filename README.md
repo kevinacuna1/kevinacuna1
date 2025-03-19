@@ -1,6 +1,6 @@
 <!-- Stats -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kevinacuna0194&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true&locale=es" width="43%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kevinacuna0194&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true&locale=es" width="50%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinacuna0194&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true&layout=compact&locale=es" width="40%" /> </br>
 </div>
 
