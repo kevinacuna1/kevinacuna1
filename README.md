@@ -11,13 +11,6 @@
   
 </div>
 
-<!-- Visit Counter -->
-<div align="center">
-  
-  [![](https://visitcount.itsvg.in/api?id=&icon=10&color=6)](https://visitcount.itsvg.in)
-  
-</div>
-
 <!--
 **kevinacuna0194/kevinacuna0194** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
