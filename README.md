@@ -1,4 +1,22 @@
-[![kevinacuna0194 GitHub Streak](https://streak-stats.demolab.com?user=kevinacuna0194&theme=blue-green&locale=es)](https://git.io/streak-stats)
+<!-- Stats -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kevinacuna0194&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true&locale=es" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinacuna0194&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true&layout=compact&locale=es" width="40%" /> </br>
+</div>
+
+<!-- Snake Animation -->
+<div align="center">
+    
+  ![snake gif](https://github.com/kevinacuna0194/kevinacuna0194/blob/output/github-snake-dark.svg)
+  
+</div>
+
+<!-- Visit Counter -->
+<div align="center">
+  
+  [![](https://visitcount.itsvg.in/api?id=&icon=10&color=6)](https://visitcount.itsvg.in)
+  
+</div>
 
 <!--
 **kevinacuna0194/kevinacuna0194** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
