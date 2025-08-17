@@ -8,7 +8,7 @@
 
 <!-- Stats -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kevinacuna0194&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&locale=en" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kevinacuna0194&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&locale=en" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinacuna0194&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&locale=en" width="40%" /> </br>
 </div>
 
