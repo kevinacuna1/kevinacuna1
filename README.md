@@ -11,7 +11,7 @@
 - 🔭 Actualmente trabajando en proyectos personales y colaborativos.
 - 🌱 Aprendiendo nuevas tecnologías como **Next.js**, **Docker**, **TypeScript**, y herramientas del ecosistema **ASP.NET Core**.
 - 💬 Pregúntame sobre desarrollo web, automatización o cómo sobrevivir al café de oficina ☕.
-- 📫 Cómo contactarme: [LinkedIn](https://www.linkedin.com/in/kevinacuna0194) | [Correo](mailto:kevinacuna0194@gmail.com)
+- 📫 Cómo contactarme: [LinkedIn](www.linkedin.com/in/kevinacuña) | [Correo](mailto:kevinacuna0194@gmail.com)
 - ⚡ Dato curioso: ¡Una vez programé toda una app en una noche solo por diversión!
 
 ---
