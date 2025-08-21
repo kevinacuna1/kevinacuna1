@@ -1,22 +1,22 @@
-<h1 align="center">Hola 👋 Soy Kevin 👨‍💻</h1>
+<h1 align="center">Hi 👋 I'm Kevin 👨‍💻</h1>
 
 <p align="center">
-  Desarrollador Full Stack de Uruguay 🇺🇾 | Apasionado por el aprendizaje constante y la creación de soluciones útiles.
+  Full Stack Developer from Uruguay 🇺🇾 | Passionate about continuous learning and building useful solutions.
 </p>
 
 ---
 
-### 🧠 Sobre mí
+### 🧠 About Me
 
-- 🔭 Actualmente trabajando en proyectos personales y colaborativos.
-- 🌱 Aprendiendo nuevas tecnologías como **Next.js**, **Docker**, **TypeScript**, y herramientas del ecosistema **ASP.NET Core**.
-- 💬 Pregúntame sobre desarrollo web, automatización o cómo sobrevivir al café de oficina ☕.
-- 📫 Cómo contactarme: [LinkedIn](https://www.linkedin.com/in/kevinacu%C3%B1a/) | [Correo](mailto:kevinacuna0194@gmail.com)
-- ⚡ Dato curioso: ¡Una vez programé toda una app en una noche solo por diversión!
+- 🔭 Currently working on personal and collaborative projects.
+- 🌱 Learning new technologies like **Next.js**, **Docker**, **TypeScript**, and tools from the **ASP.NET Core** ecosystem.
+- 💬 Ask me about web development, automation, or how to survive office coffee ☕.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kevinacu%C3%B1a/) | [Email](mailto:kevinacuna0194@gmail.com)
+- ⚡ Fun fact: I once built an entire app overnight just for fun!
 
 ---
 
-### 🛠️ Tecnologías y herramientas
+### 🛠️ Technologies & Tools
 
 ![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-512BD4?logo=dotnet&logoColor=white&style=flat)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat)
@@ -33,17 +33,17 @@
 
 ---
 
-### 📊 Estadísticas
+### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kevinacuna0194&theme=github_dark&hide_border=true&include_all_commits=true&locale=es" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinacuna0194&theme=github_dark&hide_border=true&layout=compact&locale=es" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kevinacuna0194&theme=github_dark&hide_border=true&include_all_commits=true&locale=en" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinacuna0194&theme=github_dark&hide_border=true&layout=compact&locale=en" width="40%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kevinacuna0194&theme=github-dark&hide_border=true" width="89%" />
 </div>
 
 ---
 
-### 🐍 Snake de contribuciones
+### 🐍 Contribution Snake
 
 <div align="center">
   <img src="https://github.com/kevinacuna0194/kevinacuna0194/blob/output/github-snake-dark.svg" />
@@ -51,29 +51,29 @@
 
 ---
 
-### 🚀 Proyectos destacados
+### 🚀 Featured Projects
 
-- [🔗 Portafolio personal](https://kevinacuna.dev)
+- [🔗 Personal Portfolio](https://kevinacuna.dev)
 
 **About**  
-Proyecto para ventas de casas y departamentos exclusivos de lujo con AMP (Apache, MySQL y PHP)  
+Real estate sales platform for luxury houses and apartments using AMP (Apache, MySQL, PHP)  
 🔗 [Bienes Raíces](https://github.com/kevinacuna0194/bienes-raices.git)
 
-**API del Clima**  
-Aplicación que consume datos meteorológicos usando Fetch API  
+**Weather API**  
+App that fetches weather data using the Fetch API  
 🔗 [Clima](https://github.com/kevinacuna0194/clima.git)
 
-**Cotizador de Criptomonedas**  
-Consulta en tiempo real de precios de criptos usando una API externa  
+**Crypto Price Tracker**  
+Real-time cryptocurrency price checker using an external API  
 🔗 [Criptomonedas](https://github.com/kevinacuna0194/criptomonedas.git)
 
-**Manejo de Presupuestos**  
-App para gestionar ingresos y gastos con visualización dinámica  
+**Budget Manager**  
+App to manage income and expenses with dynamic visualization  
 🔗 [Presupuesto](https://github.com/kevinacuna0194/manejo-presupuesto.git)
 
 ---
 
-### 🤝 ¡Conectemos!
+### 🤝 Let's Connect!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kevinacuna0194"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
