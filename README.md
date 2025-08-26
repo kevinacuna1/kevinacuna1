@@ -36,9 +36,12 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kevinacuna0194&theme=github_dark&hide_border=true&include_all_commits=true&locale=en" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinacuna0194&theme=github_dark&hide_border=true&layout=compact&locale=en" width="40%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kevinacuna0194&theme=github-dark&hide_border=true" width="89%" />
+<!-- 🧮 Estadísticas generales -->
+<img src="https://github-readme-stats.vercel.app/api?username=kevinacuna0194&theme=github_dark&hide_border=true&include_all_commits=true&locale=en" width="49%" alt="GitHub Stats" />
+<!-- 🗂️ Lenguajes más usados -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinacuna0194&theme=github_dark&hide_border=true&layout=compact&locale=en" width="40%" alt="Top Languages" />
+<!-- 🔥 Racha de contribuciones -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kevinacuna0194&theme=github-dark&hide_border=true" width="89%" alt="GitHub Streak" />
 </div>
 
 ---
