@@ -42,7 +42,7 @@
 <!-- 🔥 Racha de contribuciones -->
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kevinacuna0194&theme=github_dark" width="89%" alt="Profile Summary" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kevinacuna0194&theme=github-dark&hide_border=true" width="89%" alt="GitHub Streak" />
 
 </div>
 
